@@ -1,0 +1,22 @@
+100 users were randomly selected and divided equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). After analysis the sample data we observed the following 
+
+1. Time_spent_on_the_page has a mean of time_spent_on_the_page and a standard deviation of 2.378
+
+2. Time_spent_on_the_page has a minimum of 0.19 and a maximum of 10.71. Meaning that the user that spent the least time on the page spent 0.19 minutes while the one spending most time was there for 10.71 minutes
+
+3. In the numerical variable, 'time_spent_on_the_page', the mean is close to the median (50th percentile) suggesting that the data is approximately normally distributed or symmetrically distributed.
+
+4. The IQR (the difference between the 75th and 25th percentile values) is between 3.88 and 7.02. Assuming it is a normal distribution, approximately 68% of the data falls within one standard deviation of the mean.
+5. Spanish and French language are marginaly higher in preference compared each at 34% to English at 32%. However users are evenly distributed across the 3 languages
+6. The median for the tome spent on the "old" landing page is slightly lower ~4.5 minutes compared to that of the "new" landing page which is ~6.2 minutes
+7. The 75th percentile of time spent on the new was around 7 minutes, meaning that 75% of users spent less than 7 minutes on the landing pages.
+
+8. The median time spent on page in minutes for the converted group is higher ~6.5 compared to the not converted group at ~4 minutes. This implies that the new page is possibly better than the old page.
+
+9. Regarding the question whether "users spend more time on the new landing page than the existing landing page." The p-value (~0.00013) is much less than the level of significance ( α=0.05 ). We reject the null hypothesis. We therefore have enough evidence to support the claim that users spend more time on the new landing page than the old landing page.
+
+10. On the question whether the "conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page." The p-Value is less that 0.05, the level of significance. We therefore reject the hypothesis since we do not have sufficient evidence that the conversion for the group on the new page is less than that of the old page.
+
+11.  Regarding whether "the conversion and preferred language are independent or related?" Since the p-value (~0.21) is greater than the level of significance ($\alpha = 0.05$) we fail to reject the null hypothesis**. We not not have enough evidence to suggest a relationship between the conversion and preferred language variables.  The conversion status and preferred language are independent of each other.
+
+12. As the p-value (~0.43) is greater than the level of significance ($\alpha = 0.05$), we **fail to reject the null hypothesis**. Hence, we can conclude that there is not enough evidence to suggest the mean time spent on the new page is different for at least one language user. In other words, the data suggests that **the mean time spent on the new page is the same for all language users.**
