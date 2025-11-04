@@ -1,0 +1,13 @@
+Sparkling - Problem Statement
+Description
+Context
+As a Data Scientist at ABC Estate Wines, you have been assigned to analyze and forecast the sales of different types of wine in the 20th century. The dataset comprises sales data from the same company but for different wines. The objective is to gain insights into historical sales patterns and use this information to make accurate forecasts for future wine sales. By leveraging analytical techniques and forecasting models, you should provide valuable insights and predictions that can help ABC Estate Wines make informed decisions and effectively manage their wine sales in the coming years.
+
+Rubric
+Criteria - Exploratory Data Analysis- Problem definition, questions to be answered - Data background and contents - Univariate analysis - Bivariate analysis - Insights based on EDA – Decomposition
+Criteria - Data preprocessing- Duplicate value check - Missing value check and treatment - Outlier check (treatment if needed) - Feature engineering (if needed) - Data preparation for modeling
+Criteria - Model building- Build the model (Regression, Naive Forecast, Simple Average, Exponential Smoothing (Simple, Double, Triple), Stationarity Check and Correction (if needed), Automated ARIMA (best parameters based on lowest AIC), Automated SARIMA (best parameters based on lowest AIC) and comment on the model
+Criteria - Model comparison and forecasting- Compare the performance of all models built previously - Rebuild best model on entire data and make next 12 month forecastPoints6
+Criteria - Actionable Insights & Recommendations- Comments on significance of predictors - Key takeaways for the business
+Criteria - Presentation/Notebook - Overall quality- Structure and flow - Crispness - Visual appeal - Conclusion and Business Recommendations OR - Structure and flow - Well commented code - Conclusion and Business Recommendations
+
