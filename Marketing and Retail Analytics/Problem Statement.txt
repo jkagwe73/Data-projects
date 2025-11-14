@@ -1,0 +1,55 @@
+The project has two parts
+Part A:
+
+Problem Statement:
+
+An automobile parts manufacturing company has collected data on transactions for 3 years. They do not have any in-house data science team, thus they have hired you as their consultant. Your job is to use your data science skills to find the underlying buying patterns of the customers, provide the company with suitable insights about their customers, and recommend customized marketing strategies for different segments of customers. 
+
+Dataset:
+
+Auto Sales Data: Sales_Data.xlsx
+
+Please note that the data dictionary is available in Sheet 2 of the provided dataset.
+Part B:
+
+Problem Statement:
+
+A grocery store shared the transactional data with you. Your job is to conduct a thorough analysis of Point of Sale (POS) data, identify the most commonly occurring sets of items in the customer orders, and provide recommendations through which a grocery store can increase its revenue by popular combo offers & discounts for customers.
+
+Dataset:
+
+Grocery Store Data: dataset_group.csv
+Submission Guidelines
+
+Please go through the following guidelines before you proceed to make your submission for the MRA Project.
+
+    There are two parts to the submission for the project
+        Business reports: These files will be the primary criteria for evaluation
+        Supporting files: These files will be used to validate the content of the business reports
+    The EDA section of the project can be done using one or more of the following tools - Python, Tableau, KNIME
+        In case multiple tools are used, all the files must be submitted for optimal evaluation
+    The RFM and Market Basket Analysis sections of the project must be done in KNIME
+        Any other tool will NOT be accepted for these sections
+    The file formats for the submissions of different sections of the project are mentioned below:
+        Business Report - pptx, pdf (presentation)
+        EDA
+            Python - .ipynb (Python notebook)
+            KNIME - .knwf (KNIME workflow)
+            Tableau - .docx, .pdf (the file should contain the link to the Tableau Public dashboard)
+        RFM - .knwf (KNIME workflow)
+        Market Basket Analysis - .knwf (KNIME workflow)
+    Please note that in case the business reports are not submitted, the assessment will be graded zero
+        In case the business report for one part of the project is submitted, the evaluation will be done for that part only
+    As the business reports are the primary criteria for evaluation, kindly make sure that all the required information asked in the rubric are included in the business reports.
+    The requirements for the business report are as follows:
+        Minimum 14 slides each for Part A and Part B, which includes
+            minimum 8 slides on EDA and inferences from EDA
+            minimum 2 slides on RFM / Market Basket Analysis
+            minimum 4 slides on inferences from RFM / Market Basket Analysis
+            Note: 1.  The plots used in the PPT must be readable, else marks will be deducted for those plots. 2. KNIME Workflow Image is a must that needs to be put in the PPT. Also, make sure that you are putting the correct image, else marks will be deducted. 
+    Submitting the supporting files is mandatory as without them, the business reports cannot be validated
+        In case one or more supporting files are not submitted, 50% of the grades associated with the corresponding sections of the project will be deducted
+    Please ensure timely submission as a post-deadline assignment will not be accepted.
+
+
+
