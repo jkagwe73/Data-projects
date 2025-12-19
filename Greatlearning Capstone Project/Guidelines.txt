@@ -1,0 +1,45 @@
+Capstone Project: Milestone 1
+Previous
+Next
+The first milestone report must describe the data and align it to the analytical problems the Capstone Project addresses. It should also include the rationale of the project - why is the problem important and what value it will add to the company. It should also include data pre-processing and findings from the exploratory data analysis after data pre-processing and should lay out the plan of action, with an approach, for the model-building phase of the project. The notes must include the design of the project and the analytical methodology you think will be appropriate for the project.
+
+The following points are expected to be included in the first milestone report:
+
+Introduction
+Define the problem statement
+Need of the present study
+Business/social opportunities
+Data Report
+Understand the data collection methodology - comment on how the data might have been collected
+Overview of data - check the rows, columns, variable info, and descriptive details
+Data pre-processing
+Removal of unwanted variables
+Missing value treatment
+Outlier treatment
+Variable transformation
+Addition of new variables
+Exploratory Data Analysis
+Univariate Analysis - distribution and spread for continuous and categorical variables
+Bivariate Analysis - relationships between different variables
+Insightful visualizations
+Analytical Approach
+Mention the alternative analytical approaches that you may see fit to be applied to the problem
+ 
+
+Submission Guidelines
+Please note that the submission consists of two parts - a business report and a Python notebook.
+
+Business Report:
+
+The report should be submitted as a PDF file (.pdf) and NOT as a document (.docx)
+The report should be made keeping in mind that the audience will be a business leader like CMO, COO, or Data Science Manager.
+Copying and pasting code from the Python notebook is not a good idea and it is better to avoid showing codes unless they are the focal point of the report considering the audience this business report is for.
+The report should contain observations and insights based on the analysis performed
+The report should be crisp and to the point, highlighting the key takeaways so far
+Python Notebook:
+
+The notebook should be submitted as an HTML file (.html) and NOT as a notebook file (.ipynb)
+The conversion from a .ipynb file to a .html file can be done via code or free online tools
+The final notebook should be well-documented, with inline comments explaining the functionality of code and markdown cells containing comments on the observations and insights
+The notebook should be run from start to finish in a sequential manner before submission
+All warnings and errors should be removed before submission
